@@ -1,0 +1,24 @@
+:root {
+  --bg: #eef2f5;
+  --panel: #ffffff;
+  --ink: #1b2733;
+  --muted: #5d6c7a;
+  --line: #d5dde4;
+  --navy: #12263a;
+  --navy-soft: #1d3a56;
+  --amber: #e89b00;
+  --teal: #1f7f86;
+  --danger: #b3382c;
+  --danger-bg: #fbeceb;
+  --radius: 6px;
+  --font: Bahnschrift, 'Segoe UI', system-ui, -apple-system, Roboto, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font-family: var(--font); font-size: 15px; line-height: 1.5;
+}
+h1, h2, h3 { line-height: 1.2; margin: 0 0 .5rem; }
+button, input, select { font: inherit; }
+:focus-visible { outline: 3px solid var(--amber); outline-offset: 2px; }
