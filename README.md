@@ -140,6 +140,27 @@ AI-Electricity-Analyzer/
 ├── .gitignore
 └── README.md
 ```
+## 🖥️ Application Screenshots
+
+### Main Dashboard
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/10229ac1-460e-4471-9e81-a8f83f4151b0" />
+
+### ForeCast
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/c9b0867f-e74b-4f77-b134-a637485ec726" />
+
+### Classify a Day
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/03e914eb-51f0-4957-a5fe-aad8c2a9c260" />
+
+### Usage Cluster
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/356014d9-2acc-4fc9-8d9f-da4226d264a6" />
+
+### Model Performance
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/59f09f38-651f-4001-a16d-a6a228e6118c" />
+
+### Energy Tips
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/53d48d3f-70dd-4721-9b58-8165c42d10f6" />
+
+
 
 **Important directories:**
 
